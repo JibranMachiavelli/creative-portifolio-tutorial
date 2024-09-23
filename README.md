@@ -35,8 +35,17 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+---
 
-Observação:
+### Observação:
 
-Parte 01 Animação: https://youtu.be/rXDCAAkiC-s?t=3607
+Parte 01 de onde parei, Animação de texto: https://youtu.be/rXDCAAkiC-s?t=3607
+
+### Comandos para start:
+
+#NEXT
+-npm run dev
+
+#PRISMIC
+-npm run slicemachine
 
